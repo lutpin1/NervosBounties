@@ -2,9 +2,8 @@
 
 1) A screenshot or video of your EVM application on Layer 2 with Force Bridge support.
 
-![]()
-![]()
-![]()
+![](./forcebridge1.png)
+![](./forcebridge2.png)
 
 2) The address of the SUDT-ERC20 Proxy Contract that you deployed.
 ```
