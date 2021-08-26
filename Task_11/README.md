@@ -9,8 +9,8 @@ https://explorer.nervos.org/aggron/address/ckt1qyqguq8xuwzwq9rpuqq8cw4lu4p3dtaz2
 
 3) Picture of CKByte Deposit to Tron on Layer 2:
 
-![]()
-![]()
+![](./tronckdeposit.png)
+![](./tronckdeposit1.png)
 
 4) Picture of Smart contract call on Layer 2:
 
